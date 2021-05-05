@@ -20,6 +20,5 @@ BoostNSift is a new, method-level, Information-Retrieval based bug localization 
 
 --IMPRTANT:Each line in AnswerMatrix file represent the ids of the methods fixed against each query. Here, line number corresponds to the query number (line in queries file) and id number of method is the line number of the method located in corpus file
 
- Abdul razzaq (abdul.razzaq@ul.ie)
 
 
